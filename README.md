@@ -1,1 +1,1 @@
-# Customer-Acquisition-Prediction
+# Customer Acquisition Prediction
